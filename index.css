@@ -1,0 +1,56 @@
+​
+.seconddiv{
+    height:auto;
+    text-align:left;
+    font-size:17px;
+    background-color:white;
+    font-style: Arial, Helvetica, sans-serif;
+    
+}
+.firstdiv{
+
+    height:auto;
+    text-align:left;
+    font-size:17px;
+    color:black;
+    background-color: #35a68d;
+
+    font-style:  Arial, Helvetica, sans-serif;
+    
+    
+}
+
+.picsty{
+    height:250px;
+    width:250px;
+    border-radius:60%;
+    border: 5px solid #1b694c; 
+    margin-left:50px;
+}
+.profile{
+    padding-top: 30px;
+height: 300px;
+width: 300px;
+}
+h5{
+    background-color:white;
+    color:black;
+
+}
+.icon {
+  padding:4px ;
+    font-size: 16px;
+    text-align: center;
+    color: black;
+}
+.diva{
+  height: 20px;
+  
+}
+.h52{
+    background-color:  #35a68d;
+    color: black;
+}
+.ring{
+    font-size: 25px;
+}
