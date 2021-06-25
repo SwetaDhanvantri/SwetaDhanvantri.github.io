@@ -54,9 +54,13 @@ h5{
 .ring{
     font-size: 25px;
 }
-
 a:link {
-    color: green;
+    color: black;
     background-color: transparent;
     text-decoration: none;
+  }
+  a:hover {
+    color: white;
+    background-color: transparent;
+    text-decoration: underline;
   }
